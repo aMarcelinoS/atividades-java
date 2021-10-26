@@ -1,8 +1,8 @@
-EXERCÕCIO REALIZADO PARA A PRATICAR TRATAMENTO DE EXCESS’ES.
+EXERC√çCIO REALIZADO PARA A PRATICAR TRATAMENTO DE EXCESS√ïES.
 
-Fazer um programa para ler os dados de uma conta banc·ria e depois realizar um
-saque nesta conta banc·ria, mostrando o novo saldo. Um saque n„o pode ocorrer
-ou se n„o houver saldo na conta, ou se o valor do saque for superior ao limite de
+Fazer um programa para ler os dados de uma conta banc√°ria e depois realizar um
+saque nesta conta banc√°ria, mostrando o novo saldo. Um saque n√£o pode ocorrer
+ou se n√£o houver saldo na conta, ou se o valor do saque for superior ao limite de
 saque da conta.
 
 TESTES:
@@ -16,7 +16,7 @@ Withdraw limit: 300.00
 
 Enter amount for withdraw: 100.00
 
-SAÕDA ESPERADA:
+SA√çDA ESPERADA:
 New balance: 400.00
 
 ENTRADAS:
@@ -27,8 +27,8 @@ Initial balance: 500.00
 Withdraw limit: 300.00
 Enter amount for withdraw: 400.00
 
-SAÕDA ESPERADA:
-Withdraw error: The amount exceeds withdraw limit
+SA√çDA ESPERADA:
+Withdraw error: The amount exceds withdraw limit
 
 
 ENTRADAS:
@@ -39,5 +39,5 @@ Initial balance: 200.00
 Withdraw limit: 300.00
 Enter amount for withdraw: 250.00
 
-SAÕDA ESPERADA:
+SA√çDA ESPERADA:
 Withdraw error: Not enough balance
